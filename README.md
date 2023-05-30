@@ -1,6 +1,8 @@
 # CVD_Prediction
 A Web app That Predicts your chances of having a heart disease !
 
+![cvd home](https://github.com/somyasubham9/CVD_Prediction/assets/77459972/dcaea43a-ca64-4a5c-9062-8f2a23d49aa4)
+
 # TechStack Used :
 Client: React,CSS,React-Router
 
