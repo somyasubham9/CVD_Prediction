@@ -17,7 +17,6 @@ Video Link: https://drive.google.com/file/d/1Oh3mtgwJ8AfMGnt0_T-KSfUpU3TQeUgY/vi
 To run this project, install it locally using npm:
 Clone the Project
 ```
-
 git clone  https://github.com/somyasubham9/CVD_Prediction.git
 npm i
 ```
@@ -32,6 +31,6 @@ Server Side
 $ npm start
 ```
 ## Authors
-- [Suman Sourav Biswal](https://github.com/SouravBiswal){:target="_blank"}
-- [Swagat Satprem Jena](https://github.com/Swagat-Satprem-Jena){:target="_blank"}
-- [Somya Subham Dash](https://github.com/somyasubham9){:target="_blank"}
+- [Suman Sourav Biswal](https://github.com/SouravBiswal)
+- [Swagat Satprem Jena](https://github.com/Swagat-Satprem-Jena)
+- [Somya Subham Dash](https://github.com/somyasubham9)
