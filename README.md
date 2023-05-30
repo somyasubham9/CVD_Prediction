@@ -11,11 +11,6 @@ ML Models: Scikit-Learn, Flask
 # Demo
 Video Link: https://drive.google.com/file/d/1Oh3mtgwJ8AfMGnt0_T-KSfUpU3TQeUgY/view?usp=sharing
 
-## Authors
-- [Suman Sourav Biswal](https://github.com/SouravBiswal)
-- [Swagat Satprem Jena](https://github.com/Swagat-Satprem-Jena)
-- [Somya Subham Dash](https://github.com/somyasubham9)
-
 ## Setup
 To run this project, install it locally using npm:
 Clone the Project
@@ -34,3 +29,7 @@ Server Side
 ```
 $ npm start
 ```
+## Authors
+- [Suman Sourav Biswal](https://github.com/SouravBiswal)
+- [Swagat Satprem Jena](https://github.com/Swagat-Satprem-Jena)
+- [Somya Subham Dash](https://github.com/somyasubham9)
