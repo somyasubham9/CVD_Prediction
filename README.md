@@ -6,9 +6,9 @@ A Web app That Predicts your chances of having a heart disease !
 # TechStack Used :
 Client: React,CSS,React-Router
 
-Server: Python
+Server: Flask-Python
 
-ML Models: Scikit-Learn, Flask
+ML Models: Meta Model
 
 # Demo
 Video Link: https://drive.google.com/file/d/1Oh3mtgwJ8AfMGnt0_T-KSfUpU3TQeUgY/view?usp=sharing
@@ -26,9 +26,13 @@ $ cd client
 $ npm install
 $ npm start
 ```
-Server Side
+Flask Sevrer Side
 ```
-$ npm start
+$ cd server
+$ pip insall
+$ .venv/Scripts/Activate
+$ Run the file app.py file
+```
 ```
 ## Authors
 - [Suman Sourav Biswal](https://github.com/SouravBiswal)
